@@ -1,1 +1,3 @@
-## My remote depository tutorial
+## My remote repository tutorial
+
+* *git push* - пушим на удалённый репозиторий
